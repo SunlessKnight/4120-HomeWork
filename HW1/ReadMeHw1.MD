@@ -1,6 +1,7 @@
 # Group 14 Home Work 1
 Nicholi Kaminky: Kaminkyn20@students.edu.edu
-
+Robert Johnson, johnsonro18@students.ecu.edu
+Chris Johnson, johnsonchr22@students.ecu.edu
 
 ## Dependencies:
  Sklearn, Matplotlib, pandas
