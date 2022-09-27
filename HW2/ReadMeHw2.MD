@@ -8,10 +8,10 @@ Chris Johnson, johnsonchr22@students.ecu.edu
  
  All of these should be available for instal through the 'pip install' command
  
-##Which K works the best
+## Which K works the best
   K=4 was the best for the clusters given.
 
-##The best K accuracy
+## The best K accuracy
   We achieved 100% accuracy with our results
   
 ## Confusion Matrix
