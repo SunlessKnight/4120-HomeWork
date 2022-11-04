@@ -1,4 +1,5 @@
-## Nicholi Kaminky: Kaminkyn20@students.edu.edu Chris Johnson, johnsonchr22@students.ecu.edu
+## Nicholi Kaminky: Kaminkyn20@students.edu.edu 
+## Chris Johnson, johnsonchr22@students.ecu.edu
 
 # Parameters userd:
   Mean radius and Mean Compactness
